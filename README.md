@@ -4,4 +4,6 @@ NumberBaseConverter
 
 Converts any number from and to a target base between 2 and 36.
 
-From the Kotlin Basics course on Hyperskill.org (https://hyperskill.org/tracks/18).
+From the Kotlin Basics course on Hyperskill.org.
+
+https://hyperskill.org/tracks/18
